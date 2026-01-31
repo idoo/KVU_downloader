@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Package build
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Tools
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+# Downloaded audiobooks are not tracked
