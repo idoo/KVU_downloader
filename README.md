@@ -1,8 +1,6 @@
 # KVU Downloader
 
-Audiobook downloader for knigavuhe.org with multithreaded downloads and Rich progress display.
-
-## Features
+Audiobook downloader for knigavuhe.org
 
 - Multithreaded downloads (configurable)
 - Book cover auto-download
