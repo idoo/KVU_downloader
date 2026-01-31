@@ -20,8 +20,8 @@ git clone https://github.com/idoo/KVU_downloader && cd KVU_downloader && uv sync
 ## Usage
 
 ```bash
-kvu-download zapiski-okhotnika              # by slug
-kvu-download anafem -t 8 -o ~/audiobooks/   # 8 threads, custom dir
+uv run kvu-download zapiski-okhotnika              # by slug
+uv run kvu-download anafem -t 8 -o ~/audiobooks/   # 8 threads, custom dir
 ```
 
 ## Options
